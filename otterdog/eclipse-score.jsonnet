@@ -21,6 +21,26 @@ orgs.newOrg('eclipse-score') {
     },
   },
   _repositories+:: [
+    orgs.newRepo('automotive-score-technical-leads') {
+    },
+    orgs.newRepo('community-operational') {
+    },
+    orgs.newRepo('community-testing') {
+    },
+    orgs.newRepo('community-architecture') {
+    },
+    orgs.newRepo('community-process') {
+    },
+    orgs.newRepo('cft-persistency') {
+    },
+    orgs.newRepo('cft-logging') {
+    },
+    orgs.newRepo('cft-communication') {
+    },
+    orgs.newRepo('cft-orchestration') {
+    },
+    orgs.newRepo('cft-feo') {
+    },
     orgs.newRepo('eclipse-score.github.io') {
       description: "The landing page website for the Score project",
       allow_merge_commit: true,
