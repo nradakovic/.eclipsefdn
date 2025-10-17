@@ -194,7 +194,8 @@ orgs.newOrg('automotive.score', 'eclipse-score') {
       members+: [
         "castler",
         "hoe-jo",
-        "LittleHuba"
+        "LittleHuba",
+        "nradakovic",
       ],
     },
     orgs.newTeam('codeowner-baselibs') {
@@ -231,6 +232,7 @@ orgs.newOrg('automotive.score', 'eclipse-score') {
         "toolchains_qnx",
         "inc_mw_per",
         "baselibs",
+        "communication",
       ],
       value: "********",
       visibility: "selected",
@@ -240,6 +242,7 @@ orgs.newOrg('automotive.score', 'eclipse-score') {
         "toolchains_qnx",
         "inc_mw_per",
         "baselibs",
+        "communication",
       ],
       value: "********",
       visibility: "selected",
@@ -249,6 +252,7 @@ orgs.newOrg('automotive.score', 'eclipse-score') {
         "toolchains_qnx",
         "inc_mw_per",
         "baselibs",
+        "communication",
       ],
       value: "********",
       visibility: "selected",
